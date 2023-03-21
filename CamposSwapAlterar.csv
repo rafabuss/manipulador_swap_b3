@@ -1,0 +1,23 @@
+Header
+004 Participante que gerou o arquivo X ( 20) S 11      30      MATERABM  
+005 Data                             9 (  8) S 31      38      Atual     
+Linha 1
+005 Parte                            9 (  8) S 21      28      00743006  
+006 CPF CNPJ Cliente Parte           X ( 14) N 29      42                
+008 Contraparte                      9 (  8) N 53      60      02039000  
+009 CPF CNPJ Cliente Contraparte     X ( 14) N 61      74                
+011 Data inicio                      9 (  8) S 85      92      Atual     
+012 Data vencimento                  9 (  8) N 93      100     200       
+019 Data operacao termo              9 ( 08) N 225     232               
+027 Data inicio pagamento juros      9 ( 08) N 599     606               
+030 Data ini pag amortizacao         9 ( 08) N 619     626               
+054 Data de Cotacao Parte            9 ( 02) N 1487    1488              
+056 Data de Cotacao ContraParte      9 ( 02) N 1504    1505              
+059 Data de Cotacao                  9 ( 02) N 1510    1511              
+062 Data da Cot Var Cambial Parte    9 ( 02) N 1519    1520              
+069 Data de Cotacao                  9 ( 02) N 1559    1560              
+072 Data da Cot Var Camb Ctparte     9 ( 02) N 1568    1569              
+096 Data da Cotacao da Commodity     9 ( 02) N 1731    1732              
+100 Data da Cotacao da Commodity     9 ( 02) N 1760    1761              
+100 Data da Cotacao da Commodity     9 ( 02) N 1760    1761              
+105 Data de Cotacao Final Termo      9 ( 02) N 1898    1899              
