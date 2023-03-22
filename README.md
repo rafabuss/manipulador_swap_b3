@@ -1,4 +1,4 @@
-# Manipulador de arquivo de envio para o B3 do sistema Swap
+# Manipulador de arquivo de envio (para B3) do sistema Swap
 
 ## Pré-requisitos
 * Python instalado:
